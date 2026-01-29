@@ -40,11 +40,11 @@ Passcode: MCR2
 
 ## Live sessions (Recordings)
 
-[Live Sessions](https://tecmx-my.sharepoint.com/:f:/g/personal/mario_mtz_tec_mx/EhCa4Xcl0mtKjYVZPuGub4wBkMZm6sfaVHgHwIeCvjNVbw?e=7hjzql )
+[Live Sessions](https://tecmx-my.sharepoint.com/:f:/g/personal/mario_mtz_tec_mx/IgCoSC5UIkUQQLU1u6mo7qbUAbG4zfJ7rH5xofBRQWdZpgs?e=Kt1mjK)
     
 ## General Requirements
 General requirements. Please be aware that a set of requirements specific to each session will be shown in each session subsection (Some items may be repeated).
-* Computer with access to Zoom (online classes).
+* Computer with access to Teams (online classes).
 * Computer with Ubuntu 22.04 and ROS2 Humble.
 * MCR2 Virtual Machine
 * Knowledge of ROS.
