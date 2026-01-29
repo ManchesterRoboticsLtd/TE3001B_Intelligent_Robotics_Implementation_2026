@@ -25,7 +25,7 @@
    
 ## General Information
 *	MCR2 Person in Charge: Dr Mario Martinez
-*	Tecnológico de Monterrey Person in Charge: Dr Luis Alberto Munoz
+*	Tecnológico de Monterrey Person in Charge: Dr Luis Alberto Muñoz
 *	Duration 5 Weeks.
 *	Starting: 9th Feb
 
@@ -47,6 +47,16 @@ General requirements. Please be aware that a set of requirements specific to eac
 * Basic knowledge of Ubuntu (recommended).
 * Basic understanding of robotics (recommended).
 * Access to the required hardware (Hardware section).
+
+## Required Software
+You can Install ROS2 by yourself, just follow the instructions on the PPT (Week 1/Presentations/PDF/MCR2_SetUp_Ubuntu_ROS)
+The installation can be done:
+* Native with Ubuntu
+* Dual boot
+* Virtual Machine
+
+[Virtual Machine with ROS2 Installed](https://tecmx-my.sharepoint.com/:f:/g/personal/mario_mtz_tec_mx/IgBnPjlHCB5JTqIbf_zLwivxAcMAcY_qn4fSEvS3YsjlucE?e=DV5nSi)
+
 
 ## Required Hardware (Session 3 onwards)
 ![image](https://github.com/user-attachments/assets/12766789-6044-4b48-bdf6-49275491b61c)
