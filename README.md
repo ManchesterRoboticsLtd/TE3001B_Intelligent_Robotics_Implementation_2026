@@ -14,7 +14,7 @@
 ---
 
 ---
-# TE3001B: Intelligent Robotics Implementation 2025
+# TE3001B: Intelligent Robotics Implementation 2026
 
   ## Introduction
 * This course, developed by Manchester Robotics ltd. (MCR2), introduces the basic concepts and general knowledge of the ROS environment to the user.
@@ -27,15 +27,10 @@
 *	MCR2 Person in Charge: Dr Mario Martinez
 *	Tecnológico de Monterrey Person in Charge: Dr Luis Alberto Munoz
 *	Duration 5 Weeks.
-*	Starting: 10th Feb
+*	Starting: 9th Feb
 
-## Zoom:
+## Teams:
   
-Topic: TE3001B
-
-Meeting ID: 822 7617 8487
-
-Passcode: MCR2
 
 
 ## Live sessions (Recordings)
