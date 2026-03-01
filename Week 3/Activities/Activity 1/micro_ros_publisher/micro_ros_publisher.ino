@@ -91,7 +91,7 @@ void setup() {
 
   // Initializes the Micro-ROS Executor, which manages tasks and callbacks.
   RCCHECK(rclc_executor_init(&executor, &support.context, 1, &allocator));
-  // Register timer with executor
+  // Regist|er timer with executor
   RCCHECK(rclc_executor_add_timer(&executor, &timer));
 
   // Initialise message
